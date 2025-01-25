@@ -1,17 +1,11 @@
-## Overview
-Багровый лиловый заведение дремать сопровождаться выкинуть. Спорт тысяча функция появление похороны.
-
-## Features
-- **Unique Functionality:** E-commerce for digital art with an NFT preview feature
-- **Language:** RU
-- **Text Alignment:** left
+## Highlights: **Distinct Features:** Digital art e-commerce with an NFT preview function; **Language:** RU; **Text Alignment:** left
 
 ## Files
-- `index_02.html`: The main HTML file.
-- `style_02.css`: Custom styling for the website.
-- `script_02.js`: JavaScript for interactivity.
+- `index_02.html`: The primary HTML document.
+- `style_02.css`: Personalized website styling.
+JavaScript is used for interactivity in `script_02.js`.
 
-## Instructions
-1. Open `index_02.html` in your browser to explore this unique site.
-2. Customize styles and scripts if necessary.
+## Directions
+1. Launch your browser and navigate to `index_02.html` to explore this unique website.
+2. Modify scripts and styles as needed.
 
